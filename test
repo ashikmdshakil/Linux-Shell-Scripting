@@ -1,0 +1,10 @@
+#! /bin/bash
+
+if [ "$1" == "ashik" ]
+then
+	echo Yes you are the right person
+else
+	echo No you are not the right person
+fi
+
+
